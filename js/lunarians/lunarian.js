@@ -82,7 +82,7 @@ function loadLunarian() {
         })
     }
 
-    generateTiles('#003875')
+    generateTiles()
 
     camera_pos = getPositionMult(...player.position)
 
